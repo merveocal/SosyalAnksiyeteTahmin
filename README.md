@@ -78,7 +78,5 @@ Modelin tahmin gücünü görselleştirmek ve kullanıcı etkileşimini sağlama
 - Akademisyenler
 - Kendi sosyal kaygı seviyesini öğrenmek isteyen bireyler
 
----
 
-## 🗂️ Klasör Yapısı
 
